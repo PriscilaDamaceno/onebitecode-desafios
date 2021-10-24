@@ -1,0 +1,24 @@
+h1{
+    color: antiquewhite;
+}
+body{
+background-color: #2c3e50;
+}
+h3{
+    color: yellow;
+}
+ul{
+    color: white;
+font-size: medium;
+}
+
+h2{
+  background-color: yellow;
+    border-color: black;
+    border-width: 3px;
+    border-style: solid;
+}
+
+.red{
+    color: red;
+}
